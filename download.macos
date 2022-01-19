@@ -33,3 +33,21 @@ hjh@MacBook-Pro ~ % mkdir ~/ntfs-volume
 hjh@MacBook-Pro ~ % sudo mount -t ntfs -o rw,auto,nobrowse /dev/disk0s3 ~/ntfs-volume
 
 https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=RYQ6CGUGK5D6S
+
+
+
+Snapshots
+https://derflounder.wordpress.com/2019/05/08/creating-managing-and-using-apple-file-system-snapshots-for-startup-drive-backups/
+
+tmutil localsnapshot
+NOTE: local snapshots are considered purgeable and may be removed at any time by deleted(8).
+Created local snapshot with date: 2022-01-19-100832
+sudo tmutil setdestination /Volumes/InMon   
+hjh@C02TL0HVHTD5 ~ % sudo tmutil destinationinfo 
+====================================================
+Name          : InMon
+Kind          : Local
+Mount Point   : /Volumes/InMon
+ID            : 430F47DB-7E86-4407-B6D0-2BAD26164464
+hjh@C02TL0HVHTD5 ~ % 
+
