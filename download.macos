@@ -1,6 +1,9 @@
 Finding available software
 
+  #+BEGIN_SRC sh
 softwareupdate --list-full-installers
+  #+END_SRC
+
 
 
 Software Update found the following full installers:
