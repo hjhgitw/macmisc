@@ -8,7 +8,11 @@
 | ---------------- | ---------------------------------------- | ---------------------------------------- |
 | Hackintool       | [Main Link](https://github.com/headkaze/Hackintool)| The Swiss army knife of vanilla Hackintoshing  |
 |                  | [Download Link] (https://github.com/headkaze/Hackintool/releases/tag/3.8.4) | |
+QtOpenCoreConfig  https://github.com/ic005k/QtOpenCoreConfig/releases
+Public
 
+
+https://github.com/hjhgitw/Config-Validator
 
 | DarwinDumper  | [链接](https://bitbucket.org/blackosx/darwindumper/downloads)  | 类似于 AIDA64的工具，很实用，用的人不多，蛮可惜的  |
 | IORegistryExplorer  | [链接](https://www.tonymacx86.com/attachments/ioregistryexplorer-slrid_v10-6-3-zip.24086)  | 查看系统 I/O 信息以及驱动和设备的附属关系  |
