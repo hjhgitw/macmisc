@@ -1,8 +1,10 @@
-Finding available software
+#+STARTUP: indent
+* Overview
+ available software
 
-  #+BEGIN_SRC sh
+#+BEGIN_SRC sh
 softwareupdate --list-full-installers
-  #+END_SRC
+#+END_SRC
 
 
 
